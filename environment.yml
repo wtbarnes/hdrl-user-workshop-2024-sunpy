@@ -1,0 +1,13 @@
+name: hdrl-user-workshop
+channels:
+- conda-forge
+dependencies:
+- python <3.13
+- pip
+- pip:
+  - sunpy[all]
+  - sunpy-soar
+  - solarmach
+  - sunkit-image
+  - aiapy
+  - ipywidgets

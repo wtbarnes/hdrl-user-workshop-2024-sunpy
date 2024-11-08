@@ -7,3 +7,10 @@
 ### *Will Barnes* (AU/NASA GSFC) *on behalf of the SunPy Community*
 
 ### *with many thanks to: Nabil Freij, Albert Shih, Laura Hayes, and Stuart Mumford*
+
+To install the needed dependencies,
+
+```shell
+$ conda env create -f environment.yml
+$ conda activate hdrl-user-workshop
+```
