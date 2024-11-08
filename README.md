@@ -1,11 +1,9 @@
-# **An introduction to sunpy (and astropy)**
+# Analyzing Multi-instrument Remote Sensing and *in situ* Observations of the 24 March 2023 Event with the SunPy Project
 
-![sunpy logo](images/sunpy_logo.svg)
+![sunpy logo](images/sunpy_logo_landscape.png)
 
-![astropy logo](images/astropy_logo.svg)
+## HDRL Virtual User Workshop 2024
 
-## PyHC Summer School 2024
+### *Will Barnes* (AU/NASA GSFC) *on behalf of the SunPy Community*
 
-### *Will Barnes* (AU/NASA GSFC) and *Nabil Freij* (BAERi/LMSAL) *on behalf of the SunPy Community*
-
-### *with many thanks to: Albert Shih, Laura Hayes, David Stansby, Stuart Mumford, Pey Lian Lim, Erik Tollerud, Larry Bradley, Tim Pickering, Tom Aldcroft, David Shupe and Brett M. Morris**
+### *with many thanks to: Nabil Freij, Albert Shih, Laura Hayes, and Stuart Mumford*
